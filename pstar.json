@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "WhiteFang",
+			"oem": "Motorola",
+			"device": "Motorola Edge 20 Pro",
+			"filename": "crDroidAndroid-14.0-20240402-pstar-v10.3-beta.zip",
+			"download": "https://drive.google.com/drive/folders/12K77ztOzpid0AC2aEm8Cpqv2jkOtgCRb?usp=sharing",
+			"timestamp": 1711982536,
+			"md5": "534d74b4b6001eff9a9e098d64a4fe69",
+			"sha256": "848239590c051f2b504af253e42291a733e6fac16101b77107e5f9bc19bdd486",
+			"size": 1017031271,
+			"version": "10.3-beta",
+			"buildtype": "UNOFFICIAL",
+			"forum": "",
+			"gapps": "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/NikGapps-U/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://drive.google.com/drive/folders/1608ucTHPB6BoZuQq_17k73ir1Aqe8xpf?usp=sharing",
+			"paypal": "",
+			"telegram": "",
+			"dt": "https://github.com/kaloresanket/android_device_motorola_pstar",
+			"common-dt": "https://github.com/kaloresanket/android_device_motorola_sm8250-common",
+			"kernel": "https://github.com/LineageOS/android_kernel_motorola_sm8250"
+		}
+	]
+}

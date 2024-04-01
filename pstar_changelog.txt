@@ -1,0 +1,31 @@
+Highlights & Device Specific Changes: 
+Build type: Stable 
+Device: Motorola Edge 20 Pro (pstar) 
+Device maintainer: WhiteFang 
+
+======== 14/03/2024 ================ 
+* Initial Release crDroid 10.2 (Android 14) 
+* Working: MEETS_DEVICE_INTEGRITY ; MEETS_BASIC_INTEGRITY ; ALL_BASIC_FEATURES 
+
+---- First restart may take time ----
+---- Those on the Unofficial version will receive the official update via OTA ----
+
+Changelog Source:
+- https://crdroid.net/blog/2024-02-08-crDroid-10.2-released
+
+======== 02/04/2024 ================
+* Second Beta Release CrDroid 10.3 (Android 14)
+Better magisk hiding
+More icons in statustbar,AOD & Lockscreen(6 Icons excluding .)
+Native support for spatial audio (test)
+Test Harman kardon audio config (test)
+More free RAM (test) 
+Offline charging (test)
+Less Idle Drain (test)
+Fixes for adaptive charging
+ViperFx included (test)
+More info about battery, system and ram
+Fix animations
+Small UI enhancements & improved asthetics 
+Dual speaker (test)
+Improved signal reception
